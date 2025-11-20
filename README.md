@@ -59,5 +59,5 @@
 <p align="center">
   <em>"Code. Innovate. Inspire."</em>
 </p>
-<div align = "center">  <img src = "cup.png" style = "width : 25![alt text](image.png)px"></div>
+<div align = "center">  <img src = "cup.png" style = "width : 50px"></div>
 <div align = "center" ><img src = "border.png"></div>
