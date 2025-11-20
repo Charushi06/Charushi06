@@ -1,22 +1,21 @@
 
-<div align = "center" style = "" ><img src = "image.png"></div>
+<div align = "center"><img src = "border.png"></div>
 <link rel="stylesheet" href= "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<!-- Banner section - use an image or gradient background -->
-<p align = "center" font-size = "large"> <i class="fa-solid fa-chess-queen"></i> CHARUSHI</p>
+<p align = "center" font-size = "large"> ♛ CHARUSHI</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=008080&size=30&center=true&vCenter=true&width=750&lines=BTech+IT+Sophomore;Thinking+beyond+boundaries;AI+%2F+ML+Enthusiast;" />
 </p>
 
 ---
 
-##  <i style="color: #004e7a" class="fa-duotone fa-solid fa-snowflake"></i></i> About Me  
+##  <img src = "snowflake.png" style = "width : 20px"> About Me  
 - **BTech (IT) sophomore** passionate about AI/ML, and related technologies.
 - Researcher, mentor, coder -> solving real-world problems with innovation.
 <!-- - 🛡️ Internship experience and collaborations at **DRDO-affiliated labs.** -->
 
 ---
 
-## <i style="color: #004e7a" class="fa-duotone fa-solid fa-snowflake"></i> Tech Stack & Tools
+## <img src = "snowflake.png" style = "width : 20px"> Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/C++-0052cc?style=flat&logo=cplusplus&logoColor=white" />
@@ -30,28 +29,29 @@
 
 ---
 
-## <i style="color: #004e7a" class="fa-duotone fa-solid fa-snowflake"></i> GitHub Stats
+## <img src = "snowflake.png" style = "width : 20px"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Charushi06&show_icons=true&theme=react" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charushi06&theme=react" />
+  <img src="https://streak-stats.demolab.com/?user=Charushi06&theme=react&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charushi06&layout=compact&theme=react" />
 </p>
 
 ---
 
-## <i style="color: #004e7a" class="fa-duotone fa-solid fa-snowflake"></i> Current Focus
+## <img src = "snowflake.png" style = "width : 20px"> Current Focus
 
- <i class="fa-brands fa-canadian-maple-leaf"></i> Deep learning for medical image classification<br>
- <i class="fa-brands fa-canadian-maple-leaf"></i> Research & Internships<br>
- <i class="fa-brands fa-canadian-maple-leaf"></i> To be better than yesterday even if a bit
+ <img src = "maple.png" style = "width : 20px"> Deep learning for medical image classification<br>
+ <img src = "maple.png" style = "width : 20px"> Research & Internships<br>
+ <img src = "maple.png" style = "width : 20px"> To be better than yesterday even if a bit
 
 ---
 
-## <i style="color: #004e7a" class="fa-duotone fa-solid fa-snowflake"></i> Connect with Me 
+## <img src = "snowflake.png" style = "width : 20px"> Connect with Me 
 
 <p align="center">
-  <pre align = "center"><a style="color: #004e7a" href="mailto:charushi3174@gmail.com"><i class="fa-slab fa-regular fa-envelope"></i>       </a> <a style="color: #004e7a" href="https://www.linkedin.com/in/charushi-43162b320"><i class="fa-brands fa-linkedin"></i>  </a>      <a style="color: #004e7a" href="https://github.com/Charushi06"><i class="fa-brands fa-square-github"></i></a></pre>
+  <pre align = "center"><a style="color: #004e7a" href="mailto:charushi3174@gmail.com"><img src="https://img.shields.io/badge/Email-014836?style=flat&logo=gmail&logoColor=white"/></a>        <a style="color: #004e7a" href="https://www.linkedin.com/in/charushi-43162b320"><img src="https://img.shields.io/badge/LinkedIn-007aB5?style=flat&logo=linkedin&logoColor=white"/></a>        <a style="color: #004e7a" href="https://github.com/Charushi06"></a><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</pre>
 </p>
 
 ---
@@ -59,5 +59,5 @@
 <p align="center">
   <em>"Code. Innovate. Inspire."</em>
 </p>
-<div align = "center"><i class="fa-solid fa-mug-hot"></i></div>
-<div align = "center" ><img src = "image.png"></div>
+<div align = "center">  <img src = "cup.png" style = "width : 25![alt text](image.png)px"></div>
+<div align = "center" ><img src = "border.png"></div>
