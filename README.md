@@ -32,9 +32,9 @@
 ## <img src = "snowflake.png" style = "width : 20px"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charushi06&show_icons=true&theme=react" />
-  <img src="https://streak-stats.demolab.com/?user=Charushi06&theme=react&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charushi06&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Charushi06&show_icons=true&theme=react&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=Charushi06&theme=react&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charushi06&layout=compact&theme=react&cache_seconds=1800" />
 </p>
 
 ---
